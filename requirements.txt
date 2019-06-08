@@ -1,0 +1,8 @@
+flask
+gunicorn
+dialogflow
+pymusixmatch
+twilio
+pymongo
+dnspython
+gnewsclient
